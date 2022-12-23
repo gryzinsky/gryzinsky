@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+java -jar /home/p/Development/tools/scripts/bfg-1.14.0.jar $@
