@@ -22,7 +22,7 @@ A fun fact is that:
 * I've migrated to Python 🐍 and C 👈 in college.
 * I've worked with C# 🪟 in my first job.
 * I've being working with Ruby 💎 when I started [@zrp](https://github.com/zrp).
-* Nowadays I've become my worst fear, a JS developer 🙈😆. Big community, ez access to uniq projects, new ideias every day, refactoring code like "I got no time for that bro", love you guys 💙
+* Nowadays I've become my worst fear, a JS/TS developer 🙈😆
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gryzinsky)](https://github.com/anuraghazra/github-readme-stats)
 
